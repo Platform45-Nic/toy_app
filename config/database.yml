@@ -23,7 +23,7 @@ development:
 
 test:
   adapter: postgresql
-  database: toy_app_railstutorial_database
+  database: toy_app_railstutorial_database_test
   pool: 5
   timeout: 5000
 
